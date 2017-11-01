@@ -1,0 +1,2 @@
+# LinuxScript
+Created for Linux
